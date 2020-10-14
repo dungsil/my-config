@@ -2,6 +2,9 @@
   "name": "@dungsil/prettier-config",
   "version": "0.0.0",
   "main": "index.json",
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "prettier": "^2.1.2"
   }

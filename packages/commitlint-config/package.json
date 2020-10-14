@@ -2,6 +2,9 @@
   "name": "@dungsil/commitlint-config",
   "version": "0.0.0",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@commitlint/config-conventional": "^11.0.0"
   },

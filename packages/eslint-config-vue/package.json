@@ -2,6 +2,9 @@
   "name": "@dungsil/eslint-config-vue",
   "version": "0.0.0",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@dungsil/eslint-config-base": "*",
     "eslint-plugin-vue": "^7.0.1"

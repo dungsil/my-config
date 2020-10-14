@@ -2,6 +2,9 @@
   "name": "@dungsil/eslint-config",
   "version": "0.0.0",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@dungsil/eslint-config-base": "*",
     "@typescript-eslint/eslint-plugin": "^4.2.0",
