@@ -12,7 +12,6 @@
   ],
   "command": {
     "version": {
-      "message": "chore(release): %s",
       "allowBranch": ["main"]
     }
   }
