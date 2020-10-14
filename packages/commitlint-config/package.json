@@ -2,23 +2,10 @@
   "name": "@dungsil/commitlint-config",
   "version": "0.0.0",
   "main": "index.js",
-  "scripts": {
-    "lint": "eslint ."
-  },
   "dependencies": {
     "@commitlint/config-conventional": "^11.0.0"
   },
-  "devDependencies": {
-    "eslint": "^7.11.0",
-    "@dungsil/eslint-config-base": "*",
-    "prettier": "^2.1.2",
-    "@dungsil/prettier-config": "*"
-  },
   "peerDependencies": {
     "@commitlint/cli": "^11.0.0"
-  },
-  "prettier": "@dungsil/prettier-config",
-  "eslintConfig": {
-    "extends": ["@dungsil/eslint-config-base"]
   }
 }

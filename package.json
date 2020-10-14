@@ -4,7 +4,7 @@
   "license": "UNLICENSED",
   "workspaces": ["packages/**"],
   "scripts": {
-    "lint": "lerna run lint",
+    "lint": "eslint --ignore-path .gitignore .",
     "release": "lerna publish --conventional-commits --create-release github"
   },
   "devDependencies": {
@@ -17,6 +17,10 @@
     "extends": [
       "./packages/commitlint-config"
     ]
+  },
+  "prettier": "./packages/prettier-config",
+  "eslintConfig": {
+    "extends": ["./packages/eslint-config-base"]
   },
   "husky": {
     "hooks": {

@@ -2,17 +2,7 @@
   "name": "@dungsil/prettier-config",
   "version": "0.0.0",
   "main": "index.json",
-  "scripts": {},
-  "devDependencies": {
-    "eslint": "^7.11.0",
-    "@dungsil/eslint-config-base": "*",
-    "prettier": "^2.1.2"
-  },
   "peerDependencies": {
     "prettier": "^2.1.2"
-  },
-  "prettier": "./",
-  "eslintConfig": {
-    "extends": ["@dungsil/eslint-config-base"]
   }
 }
