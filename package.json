@@ -4,7 +4,8 @@
   "license": "UNLICENSED",
   "workspaces": ["packages/**"],
   "scripts": {
-    "lint": "lerna run lint"
+    "lint": "lerna run lint",
+    "release": "lerna publish --conventional-commits --create-release github"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
