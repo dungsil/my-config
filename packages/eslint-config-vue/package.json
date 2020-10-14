@@ -1,12 +1,12 @@
 {
   "name": "@dungsil/eslint-config-vue",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@dungsil/eslint-config-base": "*",
+    "@dungsil/eslint-config-base": "^0.1.0",
     "eslint-plugin-vue": "^7.0.1"
   },
   "peerDependencies": {
