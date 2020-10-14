@@ -1,6 +1,7 @@
 {
   "name": "my-config",
   "private": true,
+  "license": "UNLICENSED",
   "workspaces": ["packages/**"],
   "scripts": {
     "lint": "lerna run lint"
