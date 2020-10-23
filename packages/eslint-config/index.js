@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    '@eyesvault/eslint-config-base',
+    '@dungsil/eslint-config-base',
 
     'plugin:@typescript-eslint/eslint-recommended',
     'plugin:@typescript-eslint/recommended',
