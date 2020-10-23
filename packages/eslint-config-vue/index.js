@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['@eyesvault', 'plugin:vue/recommended', 'prettier', 'prettier/vue'],
+  extends: ['plugin:vue/recommended', 'prettier', 'prettier/vue'],
   parser: 'vue-eslint-parser',
   plugins: ['vue'],
   rules: {

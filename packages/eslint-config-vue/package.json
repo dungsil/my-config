@@ -6,7 +6,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@dungsil/eslint-config-base": "^0.1.0",
     "eslint-plugin-vue": "^7.0.1"
   },
   "peerDependencies": {
