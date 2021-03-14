@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.1](https://github.com/dungsil/my-config/compare/@dungsil/eslint-config-base@0.1.0...@dungsil/eslint-config-base@0.1.1) (2021-03-14)
+
+**Note:** Version bump only for package @dungsil/eslint-config-base
+
+
+
+
+
+
 # 0.1.0 (2020-10-14)
 
 
