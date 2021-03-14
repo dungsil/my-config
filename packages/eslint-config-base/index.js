@@ -3,26 +3,24 @@ module.exports = {
     es6: true,
     browser: true,
     node: true,
-    'jest/globals': true,
+    'jest/globals': true
   },
   parserOptions: {
     ecmaVersion: 2018,
-    sourceType: 'module',
+    sourceType: 'module'
   },
   extends: [
     'eslint:recommended',
     'standard',
 
     'plugin:import/errors',
-    'plugin:import/warnings',
-
-    'plugin:prettier/recommended',
+    'plugin:import/warnings'
   ],
   plugins: ['standard', 'jest', 'unicorn'],
   settings: {
     'import/resolver': {
-      node: { extensions: ['.js', '.mjs'] },
-    },
+      node: { extensions: ['.js', '.mjs'] }
+    }
   },
   rules: {
     /**********************/
@@ -59,8 +57,8 @@ module.exports = {
       'error',
       {
         destructuring: 'any',
-        ignoreReadBeforeAssign: false,
-      },
+        ignoreReadBeforeAssign: false
+      }
     ],
 
     // No single if in an "else" block
@@ -122,6 +120,6 @@ module.exports = {
     'unicorn/prefer-type-error': 'error',
 
     // Use new when throwing error
-    'unicorn/throw-new-error': 'error',
-  },
+    'unicorn/throw-new-error': 'error'
+  }
 }

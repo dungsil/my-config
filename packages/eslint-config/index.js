@@ -6,15 +6,15 @@ module.exports = {
     'plugin:@typescript-eslint/recommended',
 
     'prettier',
-    'prettier/@typescript-eslint',
+    'prettier/@typescript-eslint'
   ],
   parserOptions: {
-    parser: '@typescript-eslint/parser',
+    parser: '@typescript-eslint/parser'
   },
   plugins: ['@typescript-eslint'],
   rules: {
     '@typescript-eslint/member-delimiter-style': 'off',
     '@typescript-eslint/no-non-null-assertion': 'off',
-    '@typescript-eslint/no-unused-vars': ['error', { args: 'all', argsIgnorePattern: '^_' }],
-  },
+    '@typescript-eslint/no-unused-vars': ['error', { args: 'all', argsIgnorePattern: '^_' }]
+  }
 }

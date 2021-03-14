@@ -11,18 +11,18 @@ module.exports = {
     'vue/no-parsing-error': [
       'error',
       {
-        'x-invalid-end-tag': false,
-      },
+        'x-invalid-end-tag': false
+      }
     ],
 
     // Maximum 5 attributes per line instead of one
     'vue/max-attributes-per-line': [
       'error',
       {
-        singleline: 5,
-      },
+        singleline: 5
+      }
     ],
 
-    'vue/html-indent': 'off',
-  },
+    'vue/html-indent': 'off'
+  }
 }
