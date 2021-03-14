@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.3](https://github.com/dungsil/my-config/compare/@dungsil/eslint-config@0.1.2...@dungsil/eslint-config@0.1.3) (2021-03-14)
+
+
+### Bug Fixes
+
+* prettier 제거 ([7f6f8ff](https://github.com/dungsil/my-config/commit/7f6f8ffb6a7ccfa163b24a511b805b91dc56eafd))
+
+
+
+
+
+
 ## [0.1.2](https://github.com/dungsil/my-config/compare/@dungsil/eslint-config@0.1.1...@dungsil/eslint-config@0.1.2) (2021-03-14)
 
 **Note:** Version bump only for package @dungsil/eslint-config
