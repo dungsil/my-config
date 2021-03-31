@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['plugin:vue/recommended', 'prettier', 'prettier/vue'],
+  extends: ['plugin:vue/recommended'],
   parser: 'vue-eslint-parser',
   plugins: ['vue'],
   rules: {
