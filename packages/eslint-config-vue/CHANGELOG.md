@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.3](https://github.com/dungsil/my-config/compare/@dungsil/eslint-config-vue@0.1.2...@dungsil/eslint-config-vue@0.1.3) (2021-03-31)
+
+
+### Bug Fixes
+
+* **eslint-config-vue:** prettier 제거 ([e5c8452](https://github.com/dungsil/my-config/commit/e5c84523442238086f094db2d96f79cef92fcaf5))
+
+
+
+
+
 ## [0.1.2](https://github.com/dungsil/my-config/compare/@dungsil/eslint-config-vue@0.1.1...@dungsil/eslint-config-vue@0.1.2) (2021-03-14)
 
 **Note:** Version bump only for package @dungsil/eslint-config-vue
