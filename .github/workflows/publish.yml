@@ -13,6 +13,8 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: 14
+      - run: git config --global user.name "github-actions"
+      - run: git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - run: yarn install --frozen-lockfile
       - run: yarn release -y
         env:
