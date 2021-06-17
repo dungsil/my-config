@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.10](https://github.com/dungsil/my-config/compare/@dungsil/eslint-config-vue@0.1.9...@dungsil/eslint-config-vue@0.1.10) (2021-06-17)
+
+**Note:** Version bump only for package @dungsil/eslint-config-vue
+
+
+
+
+
+
 ## 0.1.9 (2021-06-03)
 
 **Note:** Version bump only for package @dungsil/eslint-config-vue
