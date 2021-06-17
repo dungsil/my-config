@@ -1,6 +1,6 @@
 {
   "name": "@dungsil/eslint-config-base",
-  "version": "0.1.8",
+  "version": "1.0.0",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
