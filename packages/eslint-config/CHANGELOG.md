@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.2 (2021-06-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-standard to v16 ([1ed7b76](https://github.com/dungsil/my-config/commit/1ed7b76b45b57fd36762463a19746de26a2b30a1))
+
+
+
+
+
 ## 1.0.1 (2021-06-28)
 
 **Note:** Version bump only for package @dungsil/eslint-config
