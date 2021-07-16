@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.4 (2021-07-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-promise to v5 ([f6e97ac](https://github.com/dungsil/my-config/commit/f6e97ac08e5d55e10d6a5247de302190e600c288))
+
+
+
+
+
 ## 1.0.3 (2021-06-28)
 
 **Note:** Version bump only for package @dungsil/eslint-config-vue
