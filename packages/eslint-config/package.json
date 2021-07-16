@@ -1,12 +1,12 @@
 {
   "name": "@dungsil/eslint-config",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@dungsil/eslint-config-base": "^1.0.4",
+    "@dungsil/eslint-config-base": "^1.0.5",
     "@typescript-eslint/eslint-plugin": "^4.2.3",
     "@typescript-eslint/parser": "^4.2.3"
   },
