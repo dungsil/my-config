@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.4 (2021-07-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-unicorn to v34 ([e75588d](https://github.com/dungsil/my-config/commit/e75588d930581763bc6dbbbe004d2e1f4fb22a56))
+
+
+
+
+
 ## 1.0.3 (2021-06-28)
 
 **Note:** Version bump only for package @dungsil/eslint-config
